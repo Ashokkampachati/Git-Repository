@@ -1,6 +1,2 @@
 add and remove servers
-<<<<<<< HEAD
 change the roles
-=======
-change the roles
->>>>>>> feature1
